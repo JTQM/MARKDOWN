@@ -1,8 +1,7 @@
 # Ejemplo
-
- -Elemento 1
- -Elemento 2
- -Elemento 3
+-Elemento 1
+-Elemento 2
+-Elemento 3
 
 podemos escribir código `sudo APT`	
 
